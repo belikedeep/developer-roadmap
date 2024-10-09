@@ -6,7 +6,7 @@ excludedBySlug: '/backend/project-ideas'
 seo:
   title: '20 Backend Project Ideas to take you from Beginner to Pro'
   description: 'Seeking backend projects to enhance your skills? Explore our top 20 project ideas, from simple apps to complex systems. Start building today!'
-  ogImageUrl: 'https://assets.roadmap.sh/guest/backend-project-ideas-ovr48.jpg'
+  ogImageUrl: 'https://assets.roadmap.sh/guest/backend-project-ideas-zxutw.jpg'
 isNew: false
 type: 'textual'
 date: 2024-05-09
@@ -18,6 +18,8 @@ tags:
   - 'textual-guide'
   - 'guide-sitemap'
 ---
+
+![Fresh ideas for backend projects.](https://assets.roadmap.sh/guest/backend-project-ideas-zxutw.jpg)
 
 As backend developers, showcasing our work to others is not straightforward, given that what we do is not very visible.
 
@@ -383,7 +385,7 @@ As a recommendation for technology implementing this project, [Socket.io](http:/
 
 ![Content Delivery Network (CDN) Simulator](https://assets.roadmap.sh/guest/cdn-simulator-lv7kl.png)
 
-For this particular backend project, we’re not going to focus on coding, but rather on backend tools and their configuration. A [CDN](https://aws.amazon.com/es/what-is/cdn/) (or Content Delivery Network) is a platform that allows you to serve static content (like text files, images, audio, etc) safely and reliably.
+For this particular backend project, we’re not going to focus on coding, but rather on backend tools and their configuration. A [CDN](https://aws.amazon.com/what-is/cdn/) (or Content Delivery Network) is a platform that allows you to serve static content (like text files, images, audio, etc) safely and reliably.
 
 Instead of having all files inside the same server, the content is replicated and distributed across a network of servers that can provide you with the files at any given point in time.
 

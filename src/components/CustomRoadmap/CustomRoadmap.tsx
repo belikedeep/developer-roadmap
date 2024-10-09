@@ -18,7 +18,7 @@ export const allowedLinkTypes = [
   'roadmap.sh',
   'official',
   'roadmap',
-  'feed'
+  'feed',
 ] as const;
 
 export type AllowedLinkTypes = (typeof allowedLinkTypes)[number];
@@ -47,6 +47,7 @@ export type GetRoadmapResponse = RoadmapDocument & {
   canManage: boolean;
   creator?: CreatorType;
   team?: CreatorType;
+  unseenRatingCount: number;
 };
 
 export function hideRoadmapLoader() {
@@ -121,6 +122,7 @@ export function CustomRoadmap(props: CustomRoadmapProps) {
       {!isEmbed && <RoadmapHeader />}
       <FlowRoadmapRenderer isEmbed={isEmbed} roadmap={roadmap!} />
       <TopicDetail
+        resourceId={roadmap!._id}
         resourceTitle={roadmap!.title}
         resourceType="roadmap"
         isEmbed={isEmbed}

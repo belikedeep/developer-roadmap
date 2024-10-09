@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import type { AllowedProfileVisibility } from '../../api/user';
-import { httpGet, httpPost } from '../../lib/http';
+import { httpPost } from '../../lib/http';
 import { useToast } from '../../hooks/use-toast';
-import { CheckIcon, Loader2, X, XCircle } from 'lucide-react';
+import { CheckIcon, Loader2, X } from 'lucide-react';
 import { useDebounceValue } from '../../hooks/use-debounce.ts';
 
 type ProfileUsernameProps = {
@@ -56,6 +56,9 @@ export function ProfileUsername(props: ProfileUsernameProps) {
     setIsUnique(response.isUnique);
     setIsLoading(false);
   };
+  const USERNAME_REGEX = /^[a-zA-Z0-9]*$/;
+  const isUserNameValid = (value: string) =>
+    USERNAME_REGEX.test(value) && value.length <= 20;
 
   return (
     <div className="flex w-full flex-col">
@@ -84,15 +87,13 @@ export function ProfileUsername(props: ProfileUsernameProps) {
             {currentUsername !== username && username && isUnique && (
               <span className="text-xs text-green-600">
                 URL after update{' '}
-                <a
-                  href={`${import.meta.env.DEV ? 'http://localhost:3000' : 'https://roadmap.sh'}/u/${username}`}
-                  target="_blank"
+                <span
                   className={
-                    'ml-0.5 rounded-md border border-purple-500 px-1.5 py-0.5 text-xs font-medium text-purple-700 transition-colors hover:bg-purple-500 hover:text-purple-800 hover:text-white'
+                    'ml-0.5 rounded-md border border-purple-500 px-1.5 py-0.5 text-xs font-medium text-purple-700 transition-colors'
                   }
                 >
                   roadmap.sh/u/{username}
-                </a>
+                </span>
               </span>
             )}
           </span>
@@ -116,10 +117,8 @@ export function ProfileUsername(props: ProfileUsernameProps) {
             onKeyDown={(e) => {
               // only allow letters, numbers
               const keyCode = e.key;
-              const validKey =
-                /^[a-zA-Z0-9]*$/.test(keyCode) && username.length < 10;
               if (
-                !validKey &&
+                !isUserNameValid(keyCode) &&
                 !['Backspace', 'Delete', 'ArrowLeft', 'ArrowRight'].includes(
                   keyCode,
                 )
@@ -127,7 +126,12 @@ export function ProfileUsername(props: ProfileUsernameProps) {
                 e.preventDefault();
               }
             }}
-            onChange={(e) => {
+            onInput={(e) => {
+              const value = (e.target as HTMLInputElement).value?.trim();
+              if (!isUserNameValid(value)) {
+                return;
+              }
+
               setUsername((e.target as HTMLInputElement).value.toLowerCase());
             }}
             required={profileVisibility === 'public'}

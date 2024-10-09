@@ -28,7 +28,7 @@ import {
   PenSquare,
   Component,
   Waypoints,
-  CheckSquare, Braces, FolderKanban, Coins, Megaphone,
+  CheckSquare, Braces, FolderKanban, Coins, Megaphone, GitBranch,
 } from 'lucide-react';
 import { SectionBadge } from '../components/GetStarted/SectionBadge';
 import { TipItem } from '../components/GetStarted/TipItem';
@@ -256,6 +256,7 @@ import { TipItem } from '../components/GetStarted/TipItem';
         { title: 'SQL', link: '/sql' },
         { title: 'PostgreSQL', link: '/postgresql-dba' },
         { title: 'MongoDB', link: '/mongodb' },
+        { title: 'Redis', link: '/redis' },
       ]}
       secondaryDescription='Or perhaps improve your database skills?'
     />
@@ -337,6 +338,13 @@ import { TipItem } from '../components/GetStarted/TipItem';
     />
 
     <RoadmapCard
+        icon={Bot}
+        title='AI Engineer'
+        link='/ai-engineer'
+        description='Learn all you need to become an AI Engineer.'
+    />
+
+    <RoadmapCard
       icon={Bot}
       title='Data Analyst'
       link='/data-analyst'
@@ -415,6 +423,12 @@ import { TipItem } from '../components/GetStarted/TipItem';
         title='Software Architect'
         link='/software-architect'
         description='Learn all you need to know to become a Software Architect.'
+      />
+      <RoadmapCard
+        icon={GitBranch}
+        title='Git and GitHub'
+        link='/git-github'
+        description='Learn all you need to know to become a Git and GitHub expert.'
       />
     </div>
   </RoleRoadmaps>

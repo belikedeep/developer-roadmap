@@ -53,6 +53,7 @@ To remove a volume, you can use the `docker volume rm` command followed by the v
 docker volume rm my-volume
 ```
 
-That's it! Now you have a basic understanding of volume mounts in Docker. You can use them to persist and share data between your containers efficiently and securely.
+Visit the following resources to learn more:
 
-- [@article@Docker Volumes](https://docs.docker.com/storage/volumes/).
+- [@official@Docker Volumes](https://docs.docker.com/storage/volumes/).
+- [@official@Docker Volume Flags](https://docs.docker.com/storage/bind-mounts/#choose-the--v-or---mount-flag)

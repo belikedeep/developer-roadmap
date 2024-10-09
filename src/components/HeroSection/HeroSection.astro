@@ -1,6 +1,5 @@
 ---
-import { FavoriteRoadmaps } from './FavoriteRoadmaps';
-import { AIAnnouncement } from "../AIAnnouncement";
+import { FeatureAnnouncement } from "../FeatureAnnouncement";
 ---
 
 <div
@@ -11,7 +10,7 @@ import { AIAnnouncement } from "../AIAnnouncement";
     id='hero-text'
   >
     <p class='-mt-4 mb-7 sm:-mt-10 sm:mb-4'>
-      <AIAnnouncement />
+      <FeatureAnnouncement client:load />
     </p>
 
     <h1
@@ -31,5 +30,4 @@ import { AIAnnouncement } from "../AIAnnouncement";
       their career.
     </p>
   </div>
-  <FavoriteRoadmaps client:only='react' />
 </div>
