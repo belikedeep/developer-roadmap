@@ -2,9 +2,9 @@
 title: 'Basic Dockerfile'
 description: 'Build a basic Dockerfile to create a Docker image.'
 isNew: false
-sort: 9
+sort: 1000
 difficulty: 'beginner'
-nature: 'CLI'
+nature: 'Docker'
 skills:
   - 'docker'
   - 'dockerfile'
