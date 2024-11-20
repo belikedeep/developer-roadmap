@@ -1,0 +1,672 @@
+{
+  "_hYN0gEi9BL24nptEtXWU": {
+    "title": "What is Engineering Management?",
+    "description": "",
+    "links": []
+  },
+  "oKbeLp4YB8rI1Q3vi0EnG": {
+    "title": "EM vs Tech Lead vs IC",
+    "description": "",
+    "links": []
+  },
+  "aSZ2uVCmpAdEPjJt6VKG4": {
+    "title": "People",
+    "description": "",
+    "links": []
+  },
+  "p9ecMvHCqjmvxf67di7pY": {
+    "title": "Product",
+    "description": "",
+    "links": []
+  },
+  "iZFn0FaRdrGv_-_8zii_-": {
+    "title": "Process",
+    "description": "",
+    "links": []
+  },
+  "FtWNnOE3zObmjS-Og26M3": {
+    "title": "Architectural Decision-Making",
+    "description": "",
+    "links": []
+  },
+  "pduPcv2QPpVmVvDdK4CPi": {
+    "title": "System Monitoring & Performance",
+    "description": "",
+    "links": []
+  },
+  "EyoVFmqOJbH1sAPHLISFt": {
+    "title": "Scaling Infrastructure",
+    "description": "",
+    "links": []
+  },
+  "fBENrXdMhoGYgL_d96tgo": {
+    "title": "Software Engineering Background",
+    "description": "",
+    "links": []
+  },
+  "iX4HPgoiEbc_gze1A01n4": {
+    "title": "System Design and Architecture",
+    "description": "",
+    "links": []
+  },
+  "EY6Hk5wPd9Y_VA1UROk44": {
+    "title": "Technical Debt and Management",
+    "description": "",
+    "links": []
+  },
+  "_2xnTKt5yi__jj_WgcLa7": {
+    "title": "Technical Documentation",
+    "description": "",
+    "links": []
+  },
+  "40yK6XzI8lSxdiAXxtF75": {
+    "title": "Code Review Best Practices",
+    "description": "",
+    "links": []
+  },
+  "ikCJ8Ybu2AD1w5VuPNVAO": {
+    "title": "Technical Roadmapping",
+    "description": "",
+    "links": []
+  },
+  "H0aav5qKDNiNegJOGP2rx": {
+    "title": "Build vs Buy Evaluation",
+    "description": "",
+    "links": []
+  },
+  "d7zMBhMFgY9MwmKC9CVVh": {
+    "title": "Technical Risk Assessment",
+    "description": "",
+    "links": []
+  },
+  "gAEmpSMvNyjmTa5q9oZSg": {
+    "title": "CI/CD Implementation",
+    "description": "",
+    "links": []
+  },
+  "bpJPDbifPwS4ScOoATlEI": {
+    "title": "Development / Release Workflow",
+    "description": "",
+    "links": []
+  },
+  "C2YsaZ32An_UXV8lB7opm": {
+    "title": "Technical Standards Setting",
+    "description": "",
+    "links": []
+  },
+  "sQCLhk__jvbityuuLlxiW": {
+    "title": "Security  Best Practices",
+    "description": "",
+    "links": []
+  },
+  "q5SJyM1d8cQzzAcR-kotB": {
+    "title": "Testing Strategies",
+    "description": "",
+    "links": []
+  },
+  "o1xPrfg8iNWQpD12xsbQJ": {
+    "title": "Incident Management",
+    "description": "",
+    "links": []
+  },
+  "3na5mBIPl5f6mjEzkgD_C": {
+    "title": "Hiring and Recruitment",
+    "description": "",
+    "links": []
+  },
+  "tPDmXXjvFI_8-MTo_dEUw": {
+    "title": "Team Structure and Design",
+    "description": "",
+    "links": []
+  },
+  "eJzYnoB6sArLjXRm51cM4": {
+    "title": "Performance Evaluations",
+    "description": "",
+    "links": []
+  },
+  "0ULnfq0ZFJXgoLbKM1gxC": {
+    "title": "Mentoring and Coaching",
+    "description": "",
+    "links": []
+  },
+  "fhFSR_N4ZDTHINEinubHG": {
+    "title": "Career Development Planning",
+    "description": "",
+    "links": []
+  },
+  "bx2SMhR58ud45se5dK7qS": {
+    "title": "Delegation",
+    "description": "",
+    "links": []
+  },
+  "QA5CR5f0geC_RQc_SOK-N": {
+    "title": "Conflict Resolution",
+    "description": "",
+    "links": []
+  },
+  "Az9GgkLFoat2t_sYRUBv5": {
+    "title": "Feedback Delivery",
+    "description": "",
+    "links": []
+  },
+  "U_oOnDXkCE387r9olvMZB": {
+    "title": "Team Motivation",
+    "description": "",
+    "links": []
+  },
+  "7PBmYoSmIgZT21a2Ip3_S": {
+    "title": "Trust / Influence Building",
+    "description": "",
+    "links": []
+  },
+  "b3qoH_LuW-Gz4N8WdGnZs": {
+    "title": "One-on-One Meetings",
+    "description": "",
+    "links": []
+  },
+  "e0ZuiCoS8sJ0XB1lNiz7_": {
+    "title": "Team Meetings",
+    "description": "",
+    "links": []
+  },
+  "gqKEgKjEu5sOf5Gl-HS-j": {
+    "title": "Status Reporting",
+    "description": "",
+    "links": []
+  },
+  "TVqVlJqegLZRSkwNoHbBf": {
+    "title": "Stakeholder Management",
+    "description": "",
+    "links": []
+  },
+  "ZyNbSBd8plAZ5lt5OEUYu": {
+    "title": "Cross-functional Collaboration",
+    "description": "",
+    "links": []
+  },
+  "4v5yLKYVcMh0s7SQuf__C": {
+    "title": "Resource Allocation",
+    "description": "",
+    "links": []
+  },
+  "7BcToTqL78QmG4qb43X5Q": {
+    "title": "Sprint Planning",
+    "description": "",
+    "links": []
+  },
+  "-Qc6E3gkUUonfzifYqeJJ": {
+    "title": "Release Management",
+    "description": "",
+    "links": []
+  },
+  "mgw6M8I9qy1EoJpJV-gy1": {
+    "title": "Risk Management",
+    "description": "",
+    "links": []
+  },
+  "hH-UDVFlgKoMJcI1ssDFv": {
+    "title": "Dependency management",
+    "description": "",
+    "links": []
+  },
+  "n9gvPHn4c1U-l6v-W9v6r": {
+    "title": "Agile methodologies",
+    "description": "",
+    "links": []
+  },
+  "SuT6q5lMMSyVkadlQp7iU": {
+    "title": "Project Tracking",
+    "description": "",
+    "links": []
+  },
+  "PXobPGPgCX3_55w4UtxT9": {
+    "title": "Milestone Management",
+    "description": "",
+    "links": []
+  },
+  "C-lJJSjT8Cxw_UT3ocFsO": {
+    "title": "Scope Management",
+    "description": "",
+    "links": []
+  },
+  "QWO5QFS7kXwfu3aa8IiRt": {
+    "title": "Timeline Estimation",
+    "description": "",
+    "links": []
+  },
+  "Wd8FCEaGZBTvsD-k4t0r4": {
+    "title": "KPI Definition",
+    "description": "",
+    "links": []
+  },
+  "idd92ZTBVUzptBl5jRdc3": {
+    "title": "Velocity Tracking",
+    "description": "",
+    "links": []
+  },
+  "ZWWsuFm_G4kvvl_cv8l_t": {
+    "title": "Quality Metrics",
+    "description": "",
+    "links": []
+  },
+  "KPDHk7tl_BnIj_obnq3Kl": {
+    "title": "Team Health Metrics",
+    "description": "",
+    "links": []
+  },
+  "g9WWa50V8ZbhIJgBRx0Nd": {
+    "title": "Project Postmortems",
+    "description": "",
+    "links": []
+  },
+  "nC5dfGlxbLoXUAp2u-6Gl": {
+    "title": "Product strategy alignment",
+    "description": "",
+    "links": []
+  },
+  "vhOHvfF_lfQrrOK6sGLTY": {
+    "title": "Business Case Development",
+    "description": "",
+    "links": []
+  },
+  "XinUWPahOdufmLYcEwMj_": {
+    "title": "ROI analysis",
+    "description": "",
+    "links": []
+  },
+  "P2gIOt-i0sQEOMBo-XjZO": {
+    "title": "Market awareness",
+    "description": "",
+    "links": []
+  },
+  "76GjwwEYaEX_kh02OSpdr": {
+    "title": "Competitive Analysis",
+    "description": "",
+    "links": []
+  },
+  "oqjr26B27SHSYVQ4IFnA1": {
+    "title": "Budget Planning",
+    "description": "",
+    "links": []
+  },
+  "iwwxnSVvCmZ57stXwzk8G": {
+    "title": "Resource forecasting",
+    "description": "",
+    "links": []
+  },
+  "rbhZJZtRV1ZZ5QaYW77ry": {
+    "title": "Cost Optimization",
+    "description": "",
+    "links": []
+  },
+  "Imgt669vbUT_Iec2o4Gvt": {
+    "title": "Vendor Management",
+    "description": "",
+    "links": []
+  },
+  "KA0y6KdVTjJFeX3frHUNo": {
+    "title": "Company Culture",
+    "description": "",
+    "links": []
+  },
+  "tt02qGHSn4fPbpboZ1Ni_": {
+    "title": "Change management",
+    "description": "",
+    "links": []
+  },
+  "mjMRNhPkeb4lEZXBb8Iot": {
+    "title": "Organization structure",
+    "description": "",
+    "links": []
+  },
+  "Zoz01JcNU69gr95IcWhYM": {
+    "title": "Politics navigation",
+    "description": "",
+    "links": []
+  },
+  "Hb_rZe4k37Rr0enSh7woV": {
+    "title": "Cross-department collaboration",
+    "description": "",
+    "links": []
+  },
+  "h7gEQNbGiabDA1q1Bk_IB": {
+    "title": "Emotional Intelligence",
+    "description": "",
+    "links": []
+  },
+  "ZuZuzwy-Frsn_PFJZVuAQ": {
+    "title": "Defining and Enforcing Values",
+    "description": "",
+    "links": []
+  },
+  "8Nro6PTkEkNugYBjQfJ6O": {
+    "title": "Team Traditions and Rituals",
+    "description": "",
+    "links": []
+  },
+  "Vb3A4a-UpGTAEs-dVI66s": {
+    "title": "Recognition programs",
+    "description": "",
+    "links": []
+  },
+  "LE3ykySYFL23KvuwxeBaR": {
+    "title": "Social connections",
+    "description": "",
+    "links": []
+  },
+  "6iM0n4faMNhk4mezS9AcG": {
+    "title": "Inclusive environment creation",
+    "description": "",
+    "links": []
+  },
+  "njqjYPMQK3nGYtqHzUylo": {
+    "title": "Innovation fostering",
+    "description": "",
+    "links": []
+  },
+  "aeD-kBZEr1NHFtAD8yHI_": {
+    "title": "Learning culture development",
+    "description": "",
+    "links": []
+  },
+  "74-7hDXaBVXYo6LJdgac_": {
+    "title": "Knowledge sharing practices",
+    "description": "",
+    "links": []
+  },
+  "Cq0OFaWqSRathZO-bxBrP": {
+    "title": "Technical excellence mindset",
+    "description": "",
+    "links": []
+  },
+  "fYkKo8D35AHd8agr3YrIP": {
+    "title": "Blameless Post-mortems",
+    "description": "",
+    "links": []
+  },
+  "g9FvFKC715tZL2ZGlPl3N": {
+    "title": "Bias Recognition / Mitigation",
+    "description": "",
+    "links": []
+  },
+  "Xaeb67Nqdi0kwvehQUYeJ": {
+    "title": "Emergency protocols",
+    "description": "",
+    "links": []
+  },
+  "LQ3YfAgJ4UaDgtnN-cMht": {
+    "title": "War Room Management",
+    "description": "",
+    "links": []
+  },
+  "irEwTIubCjORnlH27QpEo": {
+    "title": "Stakeholder Communication",
+    "description": "",
+    "links": []
+  },
+  "8zyK34SwHry2lrWchw0KZ": {
+    "title": "Post-incident analysis",
+    "description": "",
+    "links": []
+  },
+  "2fHcb1dAnf34APCAAlwnR": {
+    "title": "Service Recovery",
+    "description": "",
+    "links": []
+  },
+  "2RwpGPegD2GyiiV6SVbbM": {
+    "title": "Contingency planning",
+    "description": "",
+    "links": []
+  },
+  "KOTzJ8e7mc0wmF46vrj3I": {
+    "title": "Disaster recovery",
+    "description": "",
+    "links": []
+  },
+  "v6N7BH0B55gX0oNXb55D7": {
+    "title": "Business continuity",
+    "description": "",
+    "links": []
+  },
+  "FNp4-RgPvfC76pJKjX56a": {
+    "title": "Security incident handling",
+    "description": "",
+    "links": []
+  },
+  "kQG_wk66-51dA4Ly9ivjM": {
+    "title": "Production issues management",
+    "description": "",
+    "links": []
+  },
+  "mIUx8zAHWyPWPGvxuTK4y": {
+    "title": "Contingency planning",
+    "description": "",
+    "links": []
+  },
+  "nnoVA8W70hrNDxN3XQCVL": {
+    "title": "Disaster recovery",
+    "description": "",
+    "links": []
+  },
+  "FwK-B7jRbBXVnuY9JxI1w": {
+    "title": "Business continuity",
+    "description": "",
+    "links": []
+  },
+  "QFhhOgwz_bgZgOfKFg5XA": {
+    "title": "Security incident handling",
+    "description": "",
+    "links": []
+  },
+  "tmY4Ktu6luFg5wKylJW76": {
+    "title": "Production issues management",
+    "description": "",
+    "links": []
+  },
+  "5MM1ccB1pmQcd3Uyjmbr7": {
+    "title": "Board presentations",
+    "description": "",
+    "links": []
+  },
+  "CHothgVl8ulFthwS7uKqK": {
+    "title": "Executive summaries",
+    "description": "",
+    "links": []
+  },
+  "uBrsV_EocAkRWEqJYjoZn": {
+    "title": "Strategic proposals",
+    "description": "",
+    "links": []
+  },
+  "pLUOU2AmAJ9aJAmIlVD7D": {
+    "title": "Budget requests",
+    "description": "",
+    "links": []
+  },
+  "QssXmeifoI3dtu-eXp8PK": {
+    "title": "Vision alignment",
+    "description": "",
+    "links": []
+  },
+  "QEViLNgG4Uv9Q9PWig0u3": {
+    "title": "Customer feedback integration",
+    "description": "",
+    "links": []
+  },
+  "V5s2i-L2tsZFNxMLN_e_U": {
+    "title": "Technical customer support",
+    "description": "",
+    "links": []
+  },
+  "A-Aa7VdDAYfaMUZD_cWwP": {
+    "title": "Customer success alignment",
+    "description": "",
+    "links": []
+  },
+  "2QwMcO27H3ygtLlWVplxr": {
+    "title": "Feature prioritization",
+    "description": "",
+    "links": []
+  },
+  "tCT2syTMyEHCspDLXxk6R": {
+    "title": "Technical partnerships",
+    "description": "",
+    "links": []
+  },
+  "WYoqfmk5ejB2UOiYXh4Zi": {
+    "title": "Vendor relationships",
+    "description": "",
+    "links": []
+  },
+  "xMN575nnnQJeHe2oJYw17": {
+    "title": "Technology partnerships",
+    "description": "",
+    "links": []
+  },
+  "f3P0fF4UzgVQZuMVTVmP1": {
+    "title": "Integration management",
+    "description": "",
+    "links": []
+  },
+  "ukmMMWacekcejEiEKCLzh": {
+    "title": "API strategy",
+    "description": "",
+    "links": []
+  },
+  "Jctp5tPCK_vY35_bh7QFk": {
+    "title": "External collaboration",
+    "description": "",
+    "links": []
+  },
+  "TQY4hjo56rDdlbzjs_-nl": {
+    "title": "Competitive Analysis",
+    "description": "",
+    "links": []
+  },
+  "QUxpEK8smXRBs2gMdDInB": {
+    "title": "Legacy System Retirement",
+    "description": "",
+    "links": []
+  },
+  "gHhNi32MSBmqk-oKOy-uj": {
+    "title": "Architecture documentation",
+    "description": "",
+    "links": []
+  },
+  "Kwy9O1z2hpeE0Sb3qtxEg": {
+    "title": "Process documentation",
+    "description": "",
+    "links": []
+  },
+  "dTjp_rEl1ITZjvELqVtfv": {
+    "title": "Decision records",
+    "description": "",
+    "links": []
+  },
+  "HUQ_-vU2pdBPyF0mBocHz": {
+    "title": "Lessons Learned",
+    "description": "",
+    "links": []
+  },
+  "4-MCXFOkMGcN369OPG-vw": {
+    "title": "Best Practices",
+    "description": "",
+    "links": []
+  },
+  "g6K9fxWdRQT5h_u4Y_bkq": {
+    "title": "Mentoring Programs",
+    "description": "",
+    "links": []
+  },
+  "7t9jmv3_lRCEG5y5DA8bF": {
+    "title": "Knowledge bases",
+    "description": "",
+    "links": []
+  },
+  "S8-nwYKlG7YHL2dWwR303": {
+    "title": "Brown Bags",
+    "description": "",
+    "links": []
+  },
+  "2LO0iWf-y3l4rA1n_oG1g": {
+    "title": "Tech Talks",
+    "description": "",
+    "links": []
+  },
+  "QMAIEkVFHrrP6lUWvd0S8": {
+    "title": "Migration planning",
+    "description": "",
+    "links": []
+  },
+  "9mNLfntu1TPjcX3RoUeMq": {
+    "title": "Legacy system retirement",
+    "description": "",
+    "links": []
+  },
+  "jerPoyfCcwZbNuE_cl1hq": {
+    "title": "Technology adoption",
+    "description": "",
+    "links": []
+  },
+  "f-52wRfPRrA9iniOMYQB7": {
+    "title": "Tool transitions",
+    "description": "",
+    "links": []
+  },
+  "ev9ZKygqETctLMSt1GAFU": {
+    "title": "Process changes",
+    "description": "",
+    "links": []
+  },
+  "1__zRE1iu1FDX9ynpWSBS": {
+    "title": "Change strategy",
+    "description": "",
+    "links": []
+  },
+  "oGmtkOGVgA4huGJqkBEfj": {
+    "title": "Impact assessment",
+    "description": "",
+    "links": []
+  },
+  "34uOnta7dKOyZL0et_RC8": {
+    "title": "Stakeholder management",
+    "description": "",
+    "links": []
+  },
+  "Mxi4g_PzT0oYc3NgR0UVg": {
+    "title": "Communication planning",
+    "description": "",
+    "links": []
+  },
+  "vfp6VmWnhpre_eDORg7ht": {
+    "title": "Resistance management",
+    "description": "",
+    "links": []
+  },
+  "5_CE3p5jMA1uEqFNfp7Kh": {
+    "title": "Reorganizations",
+    "description": "",
+    "links": []
+  },
+  "ph0U4l2alVJ8lUJ96q7co": {
+    "title": "Team mergers",
+    "description": "",
+    "links": []
+  },
+  "FayHWdUHHYFFBwnXx37Gk": {
+    "title": "Role transitions",
+    "description": "",
+    "links": []
+  },
+  "eIlW4mZKNQfBsTDmZf7ex": {
+    "title": "Responsibility shifts",
+    "description": "",
+    "links": []
+  },
+  "y7YHIz7OI4sNfC_nhfLcu": {
+    "title": "Culture evolution",
+    "description": "",
+    "links": []
+  }
+}
